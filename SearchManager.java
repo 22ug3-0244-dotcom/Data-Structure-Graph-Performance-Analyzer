@@ -11,3 +11,23 @@ public class SearchManager {
 
         return -1;
     }
+
+    public int binarySearch(int[] numbers, int size, int target) {
+
+        int left = 0;
+        int right = size - 1;
+
+        while (left <= right) {
+
+            int middle = (left + right) / 2;
+
+            if (numbers[middle] == target) {
+                return middle;
+            }
+
+            if (numbers[middle] < target) {
+                left = middle + 1;
+            } else {
+                right = middle - 1;
+            }
+        }
