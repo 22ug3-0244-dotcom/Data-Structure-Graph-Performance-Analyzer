@@ -50,3 +50,21 @@ public class ArrayManager {
 
         return -1;
     }
+    
+    public void display() {
+
+        if (size == 0) {
+            System.out.println("Array is empty.");
+            return;
+        }
+
+        System.out.println("Array elements:");
+
+        for (int i = 0; i < size; i++) {
+            System.out.print(numbers[i] + " ");
+        }
+
+        System.out.println();
+    }
+
+    
