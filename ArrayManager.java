@@ -21,7 +21,7 @@ public class ArrayManager {
         System.out.println("Value inserted successfully.");
     }
     
-    public void delete(int value) {
+   public void delete(int value) {
 
         int index = search(value);
 
