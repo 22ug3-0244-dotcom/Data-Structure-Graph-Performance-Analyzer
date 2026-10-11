@@ -66,5 +66,18 @@ public class ArrayManager {
 
         System.out.println();
     }
+    
+     public int getSize() {
+        return size;
+    }
+
+    public int getValue(int index) {
+        return numbers[index];
+    }
+
+    public int[] getNumbers() {
+        return numbers;
+    }
+}
 
     
