@@ -33,8 +33,8 @@ The system also provides input validation and handles invalid operations such as
 | No. | Student Name  | Student ID  | Responsibility                         |
 | --- | ------------- | ----------- | -------------------------------------- |
 | 1   | W A Duneesha Nethmi    | 22UG3-0580     | Array and Searching                    |
-| 2   | W.M.H.S.ABERATHNA | 22UG3-0719 | Stack and Queue                        |
-| 3   | W.M.N.H.ABERATHNA  | 22UG3-0685 | Linked List                            |
+| 2   | W.M.N.H.ABERATHNA | 22UG3-0685 | Stack and Queue                        |
+| 3   | W.M.H.S.ABERATHNA  | 22UG3-0719 | Linked List                            |
 | 4   | N.P.S.I.PIYATHILAKA | 22UG3-0244 | Graph, BFS and DFS                     |
 | 5   | S.S.SOMATHILAKA | 22UG3-0683 | Main Menu, Integration and Performance |
 
