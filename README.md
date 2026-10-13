@@ -435,17 +435,7 @@ Each member's work was committed to their assigned branch before integration int
 
 ---
 
-## 12. Conclusion
-
-The Data Structure & Graph Performance Analyzer demonstrates the practical implementation of fundamental data structures and algorithms using Java.
-
-The completed system integrates Array, Stack, Queue, Linked List, Searching, Graph, BFS, DFS, and Performance Analysis into one console-based application.
-
-The project also demonstrates input validation, object-oriented programming, algorithmic complexity, testing, and collaborative development using GitHub.
-
----
-
-## 13. Team Information
+## 12. Team Information
 
 **Module:** CIT300 Data Structures and Algorithms
 
