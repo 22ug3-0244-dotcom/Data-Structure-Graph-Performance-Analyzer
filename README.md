@@ -435,23 +435,7 @@ Each member's work was committed to their assigned branch before integration int
 
 ---
 
-## 12. Individual Understanding
-
-Each group member is responsible for understanding and explaining their own contribution during the demonstration.
-
-Each member should be able to explain:
-
-* The data structure used.
-* The implemented operations.
-* The algorithm used.
-* The reason for using the algorithm.
-* The time complexity.
-* The program output.
-* How their component connects to the complete application.
-
----
-
-## 13. Conclusion
+## 12. Conclusion
 
 The Data Structure & Graph Performance Analyzer demonstrates the practical implementation of fundamental data structures and algorithms using Java.
 
@@ -461,7 +445,7 @@ The project also demonstrates input validation, object-oriented programming, alg
 
 ---
 
-## 14. Team Information
+## 13. Team Information
 
 **Module:** CIT300 Data Structures and Algorithms
 
