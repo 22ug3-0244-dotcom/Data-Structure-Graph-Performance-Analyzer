@@ -470,7 +470,3 @@ The project also demonstrates input validation, object-oriented programming, alg
 **Application Type:** Console-Based Java Application
 
 **Programming Language:** Java
-
-**Repository:** [Add GitHub Repository Link Here]
-
-**Demonstration Video:** [Add Video Link Here]
